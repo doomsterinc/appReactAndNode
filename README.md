@@ -20,6 +20,3 @@ You can access the application's server directly under **http://localhost:6001**
 
 This incarnation of our application, as are those to follow, uses React and React Router to render its UI. The implementation is fairly standard.
 
-**Schematically, it can be shown like this:**
-
-![Application Components](simple-app-structure.png)
